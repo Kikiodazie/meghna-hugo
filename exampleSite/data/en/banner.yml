@@ -4,9 +4,9 @@ banner:
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
-  title: Making each day count
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
-    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
+  title: Baby steps, we'll get there
+  content: Join our newsletter to receive 2mins read curated content on Self-development,
+    Investing and happiness, with a touch of humour.
   button:
     enable: true
     label: Join
