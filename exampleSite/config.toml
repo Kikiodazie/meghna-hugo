@@ -17,6 +17,8 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
+[menu]
+main = []
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
@@ -24,7 +26,7 @@ google_analitycs_id = ""
 logo = "images/logo.png"
 post_share = true
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
