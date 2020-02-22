@@ -20,8 +20,8 @@ weight = 2
 [menu]
 main = []
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax HTML5 Template"
+author = "GettingThere"
+description = "Baby steps, we'll get there."
 google_analitycs_id = ""
 logo = "images/logo.png"
 post_share = true
