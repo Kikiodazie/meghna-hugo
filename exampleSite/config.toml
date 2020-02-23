@@ -23,7 +23,7 @@ main = []
 author = "GettingThere"
 description = "Baby steps, we'll get there."
 google_analitycs_id = ""
-logo = "images/logoW.png"
+logo = "images/logoA.png"
 post_share = true
 [params.map]
 enable = false
