@@ -23,7 +23,7 @@ main = []
 author = "GettingThere"
 description = "Baby steps, we'll get there."
 google_analitycs_id = ""
-logo = "images/logo.png"
+logo = "images/logo1.png"
 post_share = true
 [params.map]
 enable = false
@@ -60,7 +60,7 @@ enable = false
 preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-twitter-alt"
-link = "#"
+link = "https://twitter.com/gettingthereXYZ?s=20"
 [[params.social]]
 icon = "ti-youtube"
 link = "#"
